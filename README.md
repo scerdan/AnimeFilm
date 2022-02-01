@@ -6,7 +6,7 @@ MVVM + HILT + REPOSITORY + JETPACK COMPOSE
 
 ## Previews
 <p align="center">
-<img src="" width="270" height="600" />
+<img src="https://github.com/scerdan/AnimeFilm/blob/main/preview/preview.gif" width="270" height="600" />
 </p>
 
 ## License [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
