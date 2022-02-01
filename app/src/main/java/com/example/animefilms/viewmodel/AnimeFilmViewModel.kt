@@ -12,7 +12,8 @@ import kotlinx.coroutines.launch
 import javax.inject.Inject
 
 @HiltViewModel
-class AnimeFilmViewModel @Inject
+class AnimeFilmViewModel
+@Inject
 constructor(private val repository: AnimeFilmRepo) : ViewModel() {
 
     private val _response = MutableLiveData<ArrayList<AnimeFilmItem>>()
