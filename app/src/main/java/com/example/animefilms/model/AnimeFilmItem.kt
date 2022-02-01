@@ -1,6 +1,6 @@
 package com.example.animefilms.model
 
-data class FilmAnimeItem(
+data class AnimeFilmItem(
     val description: String,
     val director: String,
     val id: String,
