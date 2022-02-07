@@ -2,12 +2,26 @@
 <a href="https://github.com/scerdan"><img alt="License" src="https://img.shields.io/static/v1?label=GitHub&message=sCerdan&color=00ff4c"/></a>
 
 ## Description
-MVVM + HILT + REPOSITORY + JETPACK COMPOSE
+### MVVM + HILT + REPOSITORY + JETPACK COMPOSE
+
+Ésta es una app que visualiza un listado de películas junto con sus respectivas imágenes, títulos y directores.- 
 
 ## Previews
 <p align="center">
 <img src="https://github.com/scerdan/AnimeFilm/blob/main/preview/preview.gif" width="270" height="600" />
 </p>
+
+## Studio Ghibli API
+
+La [Studio Ghibli API](https://ghibliapi.herokuapp.com) cataloga las personas, lugares y cosas que se encuentran en los mundos de Ghibli. Fue creado para ayudar a los usuarios a descubrir recursos, consumirlos a través de solicitudes HTTP e interactuar con ellos de cualquier manera que tenga sentido. La navegación se puede encontrar en la barra lateral izquierda y la barra lateral derecha muestra ejemplos de objetos devueltos para llamadas exitosas.
+
+## Endpoints
+
+- Films
+- People
+- Locations
+- Species
+- Vehicles
 
 ## License [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
