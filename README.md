@@ -2,14 +2,23 @@
 <a href="https://github.com/scerdan"><img alt="License" src="https://img.shields.io/static/v1?label=GitHub&message=sCerdan&color=00ff4c"/></a>
 
 ## Description
-### MVVM + HILT + REPOSITORY + JETPACK COMPOSE
-
 Ésta es una app que visualiza un listado de películas junto con sus respectivas imágenes, títulos y directores.- 
 
 ## Previews
 <p align="center">
 <img src="https://github.com/scerdan/AnimeFilm/blob/main/preview/preview.gif" width="270" height="600" />
 </p>
+
+## Tecnologías implementadas
+
+* [Kotlin](https://kotlinlang.org/)
+* [Dagger 2](https://github.com/google/dagger)
+* [MVVM Android Architecture Components](https://developer.android.com/topic/libraries/architecture)
+* [Clean Arquitecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+* [Repository](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design#:~:text=of%20Work%20patterns.-,The%20Repository%20pattern,from%20the%20domain%20model%20layer)
+* [Retrofit](http://square.github.io/retrofit/)
+* [Jetpack Compose](https://developer.android.com/jetpack/compose?hl=es-419)
+* [Kotlin Coroutines](https://developer.android.com/kotlin/coroutines)
 
 ## Studio Ghibli API
 
